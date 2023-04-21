@@ -1,1 +1,0 @@
-sentinel register main.jir -set_active true -mode ir
